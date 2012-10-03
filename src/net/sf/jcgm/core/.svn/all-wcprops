@@ -1,0 +1,797 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/jcgm/!svn/ver/51/core/trunk/src/net/sf/jcgm/core
+END
+TextPrecision.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/TextPrecision.java
+END
+TextPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/TextPath.java
+END
+IBeginMetafileNameExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jcgm/!svn/ver/24/core/trunk/src/net/sf/jcgm/core/IBeginMetafileNameExtractor.java
+END
+FontList.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jcgm/!svn/ver/51/core/trunk/src/net/sf/jcgm/core/FontList.java
+END
+CompressionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/CompressionType.java
+END
+DeviceViewportSpecificationMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/DeviceViewportSpecificationMode.java
+END
+EdgeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/EdgeType.java
+END
+TileElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jcgm/!svn/ver/36/core/trunk/src/net/sf/jcgm/core/TileElement.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/Messages.java
+END
+EllipseElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/EllipseElement.java
+END
+TextColour.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/TextColour.java
+END
+EllipticalArc.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/EllipticalArc.java
+END
+LineCap.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/LineCap.java
+END
+MarkerSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/MarkerSize.java
+END
+CMYKColorSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/CMYKColorSpace.java
+END
+ColourSelectionMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/ColourSelectionMode.java
+END
+Text.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/Text.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jcgm/!svn/ver/13/core/trunk/src/net/sf/jcgm/core/Message.java
+END
+MaximumColourIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/MaximumColourIndex.java
+END
+ControlElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/ControlElement.java
+END
+Polyline.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/Polyline.java
+END
+JoinIndicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/JoinIndicator.java
+END
+Tile.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/Tile.java
+END
+TextFontIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/TextFontIndex.java
+END
+CharacterSetList.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/CharacterSetList.java
+END
+BeginApplicationStructureBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/BeginApplicationStructureBody.java
+END
+ClipRectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/ClipRectangle.java
+END
+CircularArc3PointClose.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/CircularArc3PointClose.java
+END
+CellArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jcgm/!svn/ver/47/core/trunk/src/net/sf/jcgm/core/CellArray.java
+END
+BeginPicture.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/BeginPicture.java
+END
+TextAlignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/TextAlignment.java
+END
+IndexPrecision.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/IndexPrecision.java
+END
+CGMPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jcgm/!svn/ver/30/core/trunk/src/net/sf/jcgm/core/CGMPanel.java
+END
+ColourValueExtent.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/ColourValueExtent.java
+END
+EdgeCap.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/EdgeCap.java
+END
+LineType.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/LineType.java
+END
+NamePrecision.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/NamePrecision.java
+END
+LineWidthSpecificationMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/LineWidthSpecificationMode.java
+END
+TileArrayInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/TileArrayInfo.java
+END
+EdgeWidthSpecificationMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/EdgeWidthSpecificationMode.java
+END
+RestrictedTextType.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/RestrictedTextType.java
+END
+GraphicalPrimitiveElements.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/GraphicalPrimitiveElements.java
+END
+CharacterExpansionFactor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/CharacterExpansionFactor.java
+END
+PolyBezier.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/PolyBezier.java
+END
+ScalingMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/ScalingMode.java
+END
+PolyMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/PolyMarker.java
+END
+CircularArc3Point.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/CircularArc3Point.java
+END
+CircularArcCentre.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/CircularArcCentre.java
+END
+CGMDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jcgm/!svn/ver/49/core/trunk/src/net/sf/jcgm/core/CGMDisplay.java
+END
+MetafileDescriptorElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/MetafileDescriptorElement.java
+END
+CharacterSetIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/CharacterSetIndex.java
+END
+MaximumVDCExtent.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/MaximumVDCExtent.java
+END
+ColourCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/ColourCommand.java
+END
+EdgeWidth.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/EdgeWidth.java
+END
+VDCExtent.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/VDCExtent.java
+END
+BitonalTile.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/BitonalTile.java
+END
+CGM.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/CGM.java
+END
+ColourIndexPrecision.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/ColourIndexPrecision.java
+END
+NoOp.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/NoOp.java
+END
+EdgeVisibility.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jcgm/!svn/ver/50/core/trunk/src/net/sf/jcgm/core/EdgeVisibility.java
+END
+RectangleElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/RectangleElement.java
+END
+InteriorStyleSpecificationMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/InteriorStyleSpecificationMode.java
+END
+EndTileArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/EndTileArray.java
+END
+EllipticalArcClose.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/EllipticalArcClose.java
+END
+RealPrecision.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/RealPrecision.java
+END
+DashCapIndicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/DashCapIndicator.java
+END
+Escape.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/Escape.java
+END
+PolygonElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/PolygonElement.java
+END
+BeginTileArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/BeginTileArray.java
+END
+FontWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/FontWrapper.java
+END
+LineAndEdgeTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/LineAndEdgeTypeDefinition.java
+END
+ColourTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/ColourTable.java
+END
+EndApplicationStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/EndApplicationStructure.java
+END
+InteriorStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/InteriorStyle.java
+END
+HatchIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/HatchIndex.java
+END
+ColourPrecision.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/ColourPrecision.java
+END
+DimensionDouble.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/DimensionDouble.java
+END
+TextCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/TextCommand.java
+END
+MessageCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/MessageCommand.java
+END
+MarkerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/MarkerType.java
+END
+ColourModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/ColourModel.java
+END
+EdgeJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/EdgeJoin.java
+END
+CgmException.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jcgm/!svn/ver/28/core/trunk/src/net/sf/jcgm/core/CgmException.java
+END
+CharacterCodingAnnouncer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/CharacterCodingAnnouncer.java
+END
+VDCRealPrecision.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/VDCRealPrecision.java
+END
+ICommandListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/ICommandListener.java
+END
+DisjointPolyline.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/DisjointPolyline.java
+END
+AlternateCharacterSetIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/AlternateCharacterSetIndex.java
+END
+CharacterSpacing.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/CharacterSpacing.java
+END
+CapCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/CapCommand.java
+END
+EndPicture.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/EndPicture.java
+END
+MarkerColour.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/MarkerColour.java
+END
+MIMETypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jcgm/!svn/ver/7/core/trunk/src/net/sf/jcgm/core/MIMETypes.java
+END
+RestrictedText.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jcgm/!svn/ver/51/core/trunk/src/net/sf/jcgm/core/RestrictedText.java
+END
+AttributeElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/AttributeElement.java
+END
+EndMetafile.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/EndMetafile.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jcgm/!svn/ver/47/core/trunk/src/net/sf/jcgm/core/Command.java
+END
+VDCType.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/VDCType.java
+END
+ExternalElements.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/ExternalElements.java
+END
+DashTypeCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/DashTypeCommand.java
+END
+CircularArcCentreClose.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/CircularArcCentreClose.java
+END
+ClipIndicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/ClipIndicator.java
+END
+MetafileElementList.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/MetafileElementList.java
+END
+LineJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/LineJoin.java
+END
+LineColour.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/LineColour.java
+END
+ElementClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/ElementClass.java
+END
+DashType.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/DashType.java
+END
+PictureDescriptorElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/PictureDescriptorElement.java
+END
+SpecificationMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/SpecificationMode.java
+END
+CharacterHeight.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/CharacterHeight.java
+END
+DelimiterElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/DelimiterElement.java
+END
+EdgeColour.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/EdgeColour.java
+END
+MetafileDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/MetafileDescription.java
+END
+MetafileVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/MetafileVersion.java
+END
+JoinCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/JoinCommand.java
+END
+PolygonSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/PolygonSet.java
+END
+BackgroundColour.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jcgm/!svn/ver/49/core/trunk/src/net/sf/jcgm/core/BackgroundColour.java
+END
+VDCIntegerPrecision.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/VDCIntegerPrecision.java
+END
+LineCapIndicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/LineCapIndicator.java
+END
+CharacterOrientation.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/CharacterOrientation.java
+END
+IntegerPrecision.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/IntegerPrecision.java
+END
+FillColour.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/FillColour.java
+END
+ICgmExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jcgm/!svn/ver/28/core/trunk/src/net/sf/jcgm/core/ICgmExtractor.java
+END
+CircleElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/CircleElement.java
+END
+MarkerSizeSpecificationMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/MarkerSizeSpecificationMode.java
+END
+LineWidth.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/LineWidth.java
+END
+SymbolDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/SymbolDecoder.java
+END
+BeginMetafile.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/BeginMetafile.java
+END
+StructuredDataRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/StructuredDataRecord.java
+END
+ApplicationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/ApplicationData.java
+END
+MetafileDefaultsReplacement.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/MetafileDefaultsReplacement.java
+END
+BeginPictureBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jcgm/!svn/ver/46/core/trunk/src/net/sf/jcgm/core/BeginPictureBody.java
+END
