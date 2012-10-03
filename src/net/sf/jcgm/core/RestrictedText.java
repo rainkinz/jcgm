@@ -21,7 +21,6 @@
  */
 package net.sf.jcgm.core;
 
-import java.awt.Color;
 import java.awt.Font;
 import java.awt.FontMetrics;
 import java.awt.Graphics2D;
@@ -299,23 +298,28 @@ public class RestrictedText extends TextCommand {
 
         // save the transformation since we are going to apply another one that
         // is specific to this string
-        AffineTransform savedTransform = g2d.getTransform();
+        // AffineTransform savedTransform = g2d.getTransform();
 
         AffineTransform coordinateSystemTransformation = d.getCoordinateSystemTransformation(
                 this.position,
                 d.getCharacterOrientationBaselineVector(), d.getCharacterOrientationUpVector());
 
         AffineTransform textTransform = d.getTextTransform();
+        System.out.println("TextTransform is: " + textTransform);
         coordinateSystemTransformation.concatenate(textTransform);
+        System.out.println("Coordinate system transform is: " + coordinateSystemTransformation);
+        // g2d.transform(coordinateSystemTransformation);
+        g2d.setTransform(coordinateSystemTransformation);
+        System.out.println("Current transform is: " + g2d.getTransform());
 
-        g2d.transform(coordinateSystemTransformation);
-
+        // Move the coordinate system - although, not quite sure why this is needed here
         Point2D.Double textOrigin = getTextOffset(d);
+        System.out.println("Text offsets are: " + textOrigin);
         g2d.translate(textOrigin.x, textOrigin.y);
 
         // DEBUG: draw the outline
-        g2d.setColor(Color.MAGENTA);
-        g2d.draw(new Rectangle2D.Double(0, -this.deltaHeight, this.deltaWidth, this.deltaHeight));
+        // g2d.setColor(Color.MAGENTA);
+        // g2d.draw(new Rectangle2D.Double(0, -this.deltaHeight, this.deltaWidth, this.deltaHeight));
         // DEBUG END
 
         g2d.setColor(d.getTextColor());
@@ -367,14 +371,13 @@ public class RestrictedText extends TextCommand {
             applyTextPath(d, glyphVector);
         }
 
-        // g2d.drawGlyphVector(glyphVector, 0, 0);
-        System.out.println("Drawing text: " + this.string);
+        System.out.println("Drawing text: " + this.string + " at " + this.position);
 
-        g2d.setFont(new Font("LucidaSans", Font.PLAIN, (int)height));
-        g2d.drawString(this.string, (float)logicalBounds.getWidth(), (float)height);
+        // g2d.drawGlyphVector(glyphVector, 0, 0);
+        g2d.drawString(this.string, 0, 0);
 
         // restore the transformation that existed before painting the string
-        // g2d.setTransform(savedTransform);
+        //g2d.setTransform(savedTransform);
     }
 
 }

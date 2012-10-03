@@ -313,7 +313,7 @@ public class CGM implements Cloneable {
 
     public void paint(CGMDisplay d) {
         for (Command c : this.commands) {
-            // System.out.println("Applying command: " + c);
+            System.out.println("Applying command: " + c);
             if (filter(c)) {
                 c.paint(d);
             }
