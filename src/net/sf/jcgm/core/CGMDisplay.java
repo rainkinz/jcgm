@@ -223,11 +223,15 @@ public class CGMDisplay {
         // scale to the available view port
         this.scaleTransform = new AffineTransform(m00, 0, 0, m11, m02, m12);
 
+        //          [ x']   [  m00  m01  m02  ] [ x ]   [ m00x + m01y + m02 ]
+        //          [ y'] = [  m10  m11  m12  ] [ y ] = [ m10x + m11y + m12 ]
+        //          [ 1 ]   [   0    0    1   ] [ 1 ]   [         1         ]
+        // AffineTransform(double m00, double m10, double m01, double m11, double m02, double m12) 
         // invert the Y axis since (0, 0) is at top left for AWT
-        //        AffineTransform invertY = new AffineTransform(1, 0, 0, -1, 0, this.canvasHeight);
-        //        invertY.concatenate(this.scaleTransform);
+        AffineTransform invertY = new AffineTransform(1, 0, 0, -1, 0, this.canvasHeight);
+        invertY.concatenate(this.scaleTransform);
         //
-        //        this.g2d.setTransform(invertY);
+        this.g2d.setTransform(invertY);
 
         this.Cgm.paint(this);
     }

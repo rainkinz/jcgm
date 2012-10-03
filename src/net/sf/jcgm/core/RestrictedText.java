@@ -298,7 +298,7 @@ public class RestrictedText extends TextCommand {
 
         // save the transformation since we are going to apply another one that
         // is specific to this string
-        // AffineTransform savedTransform = g2d.getTransform();
+        AffineTransform savedTransform = g2d.getTransform();
 
         AffineTransform coordinateSystemTransformation = d.getCoordinateSystemTransformation(
                 this.position,
@@ -308,8 +308,8 @@ public class RestrictedText extends TextCommand {
         System.out.println("TextTransform is: " + textTransform);
         coordinateSystemTransformation.concatenate(textTransform);
         System.out.println("Coordinate system transform is: " + coordinateSystemTransformation);
-        // g2d.transform(coordinateSystemTransformation);
-        g2d.setTransform(coordinateSystemTransformation);
+        g2d.transform(coordinateSystemTransformation);
+        // g2d.setTransform(coordinateSystemTransformation);
         System.out.println("Current transform is: " + g2d.getTransform());
 
         // Move the coordinate system - although, not quite sure why this is needed here
@@ -377,7 +377,7 @@ public class RestrictedText extends TextCommand {
         g2d.drawString(this.string, 0, 0);
 
         // restore the transformation that existed before painting the string
-        //g2d.setTransform(savedTransform);
+        g2d.setTransform(savedTransform);
     }
 
 }
