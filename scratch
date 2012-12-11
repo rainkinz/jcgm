@@ -1,23 +1,0 @@
-Line: 3Character: 1Code: 0Error Message: Syntax errorURL: http://www.startekinfo.com/StarTek/inside/218043/webetm/etm08/webetm/common/prototype.js
-
-
-
-http://wkr03:9083/solr/select/?facet=true&indent=true&q=*:*&facet.field=service_information_type_path_facet&facet.field=systems_component_path_facet&wt=json&rows=0&fq=oem_site_version:gm_prod_1&fq=class:FactoryArticle&fq=car_year_facet:2009car_year_facet:\%222009\%22%20car_make_name_facet:\%22Chevrolet\%22%20car_model_facet:\%22Equinox\%22%22
-
-
-http://wkr03:9083/solr/select/?indent=true&q=car_uuid_facet%3A1dc2d5b0-176f-012e-32ba-19005f6e69db&facet.field=oem_site_version&wt=json&facet=true&rows=0
-
-
-http://wkr03:9083/solr/select/?facet=true&indent=true&q=car_uuid_facet%3A1dc2d5b0-176f-012e-32ba-19005f6e69db&facet.field=service_information_type_path_facet&facet.field=systems_component_path_facet&wt=json&rows=0&fq=oem_site_version:gm_prod_1
-
-
-1dc2d5b0-176f-012e-32ba-19005f6e69db
-1dc2d5b0-176f-012e-32ba-19005f6e69db
-
-1dc2d5b0-176f-012e-32ba-19005f6e69db
-1dc2d5b0-176f-012e-32ba-19005f6e69db
-
-http://wkr03:9083/solr/select/?facet=true&indent=true&q=class%3AFactoryArticle&facet.field=service_information_type_path_facet&facet.field=systems_component_path_facet&wt=json&fq=oem_site_version%3A%22gm_prod_1%22+car_year_facet%3A%222009%22+car_make_name_facet%3A%22Chevrolet%22+car_model_facet%3A%22Equinox%22&rows=20&fq=-car_uuid_facet:1dc2d5b0-176f-012e-32ba-19005f6e69db
-
-
-http://wkr03:9083/solr/select/?facet=true&indent=true&q=*:*&facet.field=service_information_type_path_facet&facet.field=systems_component_path_facet&wt=json&fq=oem_site_version:gm_prod_1&fq=car_year_facet:2009&fq=car_make_name_facet:Chevrolet&fq=car_model_facet:Equinox&rows=0&fq=class:FactoryArticle
