@@ -155,7 +155,7 @@ public class CGMDisplay {
         reset();
         this.lineDashes = new HashMap<Integer, float[]>();
         // the values below are chosen so that they match the files of the test suite
-        this.lineDashes.put(DashType.SOLID,			new float[] { 100, 0 }); // solid
+        this.lineDashes.put(DashType.SOLID,			new float[] { 100, 0 }); // BJG It used to be this { 100, 0 }); // solid
         this.lineDashes.put(DashType.DASH,			new float[] { 55, 20 }); // dash
         this.lineDashes.put(DashType.DOT,			new float[] { 13, 13 }); // dot
         this.lineDashes.put(DashType.DASH_DOT,		new float[] { 55, 20, 13, 20  }); // dash-dot
@@ -471,6 +471,7 @@ public class CGMDisplay {
             // default font index should be used
             fontIndex = 1;
         }
+        // System.out.println("Setting font: " + this.fonts[fontIndex-1].font);
         this.g2d.setFont(this.fonts[fontIndex-1].font);
         this.useSymbolEncoding  = this.fonts[fontIndex-1].useSymbolEncoding;
     }
@@ -590,12 +591,20 @@ public class CGMDisplay {
     }
 
     public void setLineType(int type) {
-        this.lineStroke = new BasicStroke(this.lineStroke.getLineWidth(),
-                this.lineStroke.getEndCap(),
-                this.lineStroke.getLineJoin(),
-                this.lineStroke.getMiterLimit(),
-                this.lineDashes.get(type),
-                this.lineStroke.getDashPhase());
+        if (type == DashType.SOLID) {
+            // BJG Work around safari bug
+            this.lineStroke = new BasicStroke(this.lineStroke.getLineWidth(),
+                    this.lineStroke.getEndCap(),
+                    this.lineStroke.getLineJoin(),
+                    this.lineStroke.getMiterLimit());
+        } else {
+            this.lineStroke = new BasicStroke(this.lineStroke.getLineWidth(),
+                    this.lineStroke.getEndCap(),
+                    this.lineStroke.getLineJoin(),
+                    this.lineStroke.getMiterLimit(),
+                    this.lineDashes.get(type),
+                    this.lineStroke.getDashPhase());
+        }
     }
 
     public BasicStroke getLineStroke() {
@@ -603,12 +612,20 @@ public class CGMDisplay {
     }
 
     public void setEdgeType(int type) {
-        this.edgeStroke = new BasicStroke(this.edgeStroke.getLineWidth(),
-                this.edgeStroke.getEndCap(),
-                this.edgeStroke.getLineJoin(),
-                this.edgeStroke.getMiterLimit(),
-                this.lineDashes.get(type),
-                this.edgeStroke.getDashPhase());
+        if (type == DashType.SOLID) {
+            // BJG Work around safari bug
+            this.lineStroke = new BasicStroke(this.lineStroke.getLineWidth(),
+                    this.lineStroke.getEndCap(),
+                    this.lineStroke.getLineJoin(),
+                    this.lineStroke.getMiterLimit());
+        } else {
+            this.lineStroke = new BasicStroke(this.lineStroke.getLineWidth(),
+                    this.lineStroke.getEndCap(),
+                    this.lineStroke.getLineJoin(),
+                    this.lineStroke.getMiterLimit(),
+                    this.lineDashes.get(type),
+                    this.lineStroke.getDashPhase());
+        }
     }
 
     public BasicStroke getEdgeStroke() {
